@@ -1,0 +1,13 @@
+Django>=4.2,<5.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+python-decouple
+celery
+redis
+gunicorn
+uvicorn
+django-redis
+django-celery-results
+django-celery-beat
+django-filter

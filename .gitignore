@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+db.sqlite3
+.env
+venv/
+.idea/
+.vscode/
+celerybeat-schedule
+media/
+staticfiles/
+test_auth.sh
+test_events.sh
+test_tasks.py
